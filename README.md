@@ -1,4 +1,4 @@
-<a herf="https://akashkumar06.github.io/mywebsite.github.io/">click Here!</a>
+<h1><a href="https://akashkumar06.github.io/mywebsite.github.io/">Click Here!</a>
 <h2> Here is all about me</h2>
 
 <img src="img/myimg.PNG">
